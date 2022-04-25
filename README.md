@@ -1,11 +1,11 @@
-# APP Clima/Tempo
+# APP Clima/Tempo ☀️​⛈️​
 
  <h1>Sobre</h1>
 > Um app criado para ver a previsão do tempo, pegando sua localização ou quando o usuario digita a mesma.
 
 ![tempo](https://user-images.githubusercontent.com/88971985/165006014-ad54f7d0-dcee-4b38-9c12-0442d52de825.gif)
 
-<h2>Tecnologias</h2>
+<h2>Tecnologias</h2>💻
  <p>As tecnologias usadas por mim foram</p>
   <ul>
   <li>HTML</li>
